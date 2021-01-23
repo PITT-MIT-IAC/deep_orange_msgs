@@ -1,0 +1,7 @@
+uint8 vehicle_id
+float32 current_vehicle_speed
+uint16 current_race_flag
+float32 current_latitude
+float32 current_longitude
+uint8 current_ct_mode
+uint8 rolling_counter

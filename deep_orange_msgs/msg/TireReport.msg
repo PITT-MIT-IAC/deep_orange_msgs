@@ -1,0 +1,18 @@
+float32 fl_tire_temperature_core
+float32 fl_tire_temperature_surface
+float32 fl_tire_pressure
+float32 fl_wheel_load
+float32 fr_tire_temperature_core
+float32 fr_tire_temperature_surface
+float32 fr_tire_pressure
+float32 fr_wheel_load
+float32 rl_tire_temperature_core
+float32 rl_tire_temperature_surface
+float32 rl_tire_pressure
+float32 rl_wheel_load
+float32 rr_tire_temperature_core
+float32 rr_tire_temperature_surface
+float32 rr_tire_pressure
+float32 rr_wheel_load
+
+
