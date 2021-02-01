@@ -41,6 +41,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/PtReport.msg"
   "msg/BrakeTempReport.msg"
   "msg/TireReport.msg"
+  "msg/Coordinates.msg"
  )
  
 ament_package()
