@@ -1,3 +1,4 @@
+builtin_interfaces/Time stamp
 float32 battery_voltage
 bool off_grid_power_connection
 bool dbw_ready
