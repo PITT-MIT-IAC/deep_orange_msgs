@@ -1,3 +1,4 @@
+builtin_interfaces/Time stamp
 uint8 vehicle_id
 float32 current_vehicle_speed
 uint16 current_race_flag
