@@ -4,5 +4,6 @@ bool dbw_ready
 bool ecu_ready
 bool gnss_ready
 bool crank_switch_enabled
+bool test_switch_enabled
 uint8 current_raptor_mode
 
