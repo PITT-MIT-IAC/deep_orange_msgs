@@ -29,6 +29,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/RcToCt.msg"
   "msg/TireReport.msg"
   "msg/PosTime.msg"
+  "msg/RaceReport.msg"
   DEPENDENCIES builtin_interfaces
   ADD_LINTER_TESTS
 )
