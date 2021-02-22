@@ -1,2 +1,2 @@
 builtin_interfaces/Time stamp
-PosTime[<=16] positions
+float32[16] track_positions

@@ -1,7 +1,7 @@
 builtin_interfaces/Time stamp
 uint8 current_position
 uint8 track_condition
-uint16 black
-uint16 checkered
-uint16 purple
+bool[16] black
+bool[16] checkered
+bool[16] purple
 uint8 rolling_counter
