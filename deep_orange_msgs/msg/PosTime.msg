@@ -1,2 +1,0 @@
-uint8 position
-float32 time_to_p1

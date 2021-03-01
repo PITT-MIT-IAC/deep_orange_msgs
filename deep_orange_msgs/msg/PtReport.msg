@@ -14,4 +14,3 @@ int8 gear_shift_status
 float32 transmission_oil_pressure
 float32 transmission_accumulator_pressure
 float32 transmission_oil_temperature
-
