@@ -23,13 +23,12 @@ find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/BrakeTempReport.msg"
   "msg/Coordinates.msg"
-  "msg/CtStatus.msg"
   "msg/MiscReport.msg"
+  "msg/PosTime.msg"
   "msg/PtReport.msg"
+  "msg/RaceReport.msg"
   "msg/RcToCt.msg"
   "msg/TireReport.msg"
-  "msg/PosTime.msg"
-  "msg/RaceReport.msg"
   DEPENDENCIES builtin_interfaces
   ADD_LINTER_TESTS
 )
