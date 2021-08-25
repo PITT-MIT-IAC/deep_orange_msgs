@@ -28,6 +28,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/PtReport.msg"
   "msg/RcToCt.msg"
   "msg/TireReport.msg"
+  "msg/JoystickCommand.msg"
   DEPENDENCIES builtin_interfaces
   ADD_LINTER_TESTS
 )
