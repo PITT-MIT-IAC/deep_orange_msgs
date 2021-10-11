@@ -6,3 +6,4 @@ float32 steering_cmd
 float32 brake_cmd
 float32 accelerator_cmd
 float32 gear_cmd
+bool joystick_healthy
