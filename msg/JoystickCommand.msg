@@ -1,6 +1,7 @@
 builtin_interfaces/Time stamp
 uint8 counter
 uint8 emergency_stop
+uint8 coordinated_stop
 uint8 joy_enable
 float32 steering_cmd
 float32 brake_cmd
