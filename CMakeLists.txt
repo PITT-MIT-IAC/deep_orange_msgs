@@ -29,6 +29,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/PtReport.msg"
   "msg/RcToCt.msg"
   "msg/TireReport.msg"
+  "msg/TireTemp.msg"
+  "msg/TireTempReport.msg"
   "msg/Telemetry.msg"
   "msg/JoystickCommand.msg"
   "msg/DiagnosticReport.msg"
