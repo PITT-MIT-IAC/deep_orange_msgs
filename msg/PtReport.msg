@@ -17,3 +17,4 @@ float32 transmission_oil_pressure
 float32 transmission_accumulator_pressure
 float32 transmission_oil_temperature
 float32 vehicle_speed_kmph
+float32 torque_wheels
