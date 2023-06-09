@@ -38,6 +38,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/LapTimeReport.msg"
   "msg/MyLapsReport.msg"
   "msg/MarelliReport.msg"
+  "msg/RaceControlReport.msg"
   DEPENDENCIES builtin_interfaces std_msgs
   ADD_LINTER_TESTS
 )
